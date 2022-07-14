@@ -1,0 +1,42 @@
+body{
+    font-family: 'Hahmlet', serif;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.firstpage{
+    
+    background-image: url('../image/home.jpg');
+    background-size: cover;
+     
+
+}
+.container{
+     
+    width: 25%;
+    margin-right: 10%;
+    
+    /* border: solid white; */
+}
+.button{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: 30%;}
+
+.form-group{
+    padding: 7px;
+}
+
+.container{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.signout{
+    margin-right: 5%;
+}
+table{
+
+    border: solid black;
+}
+ 

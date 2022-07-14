@@ -1,0 +1,13 @@
+body{
+     background-image: url( '../image/result.jpg');  
+     
+    background-size: cover;
+    font-family: 'Hahmlet', serif;
+
+}
+.container{
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+}
+ 
